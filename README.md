@@ -1,0 +1,2 @@
+# Bugal
+Newspaper something whatever
